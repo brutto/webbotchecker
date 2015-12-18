@@ -7,6 +7,6 @@
       "reference": "master"
   },
   "autoload": {
-      "classmap": ["webbotcheccker.php"]
+      "classmap": ["webbotchecker.php"]
   }
 }
