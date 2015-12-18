@@ -64,8 +64,3 @@ class WebBotChecker {
 		return ( true == is_array( $this->botArrayCheck ) && 0 < count( $this->botArrayCheck )) ? 1 : 0;				
 	}
 }
-
-
-
-
-?>
